@@ -1,0 +1,273 @@
+    1  ls
+    2  git
+    3  cd desktop
+    4  cd sunilkp
+    5  root
+    6  cls
+    7  clear
+    8  cd [200~C:\Users\EI06345\OneDrive - Tietoevry\Desktop\sunilkp~
+    9  git init \Users\EI06345\OneDrive - Tietoevry\Desktop\sunilkp
+   10  git init -q
+   11  git branch
+   12  git branch main
+   13  git checkout 
+   14  git config --gobal user.email "sunilkps786@gmail.com"
+   15  git config --gobal user.name "sunilgithub"
+   16  git config --global user.email "sunilkps786@gmail.com"
+   17  git config --gobal user.name "sunilgithub"
+   18  git config --global user.name "sunilgithub"
+   19  git status
+   20  cd /c
+   21  cd git
+   22  cd git
+   23  mkdir projectgit
+   24  cd projectgit
+   25  cd projectgit/
+   26  git init https://github.com/sunilkps786/hello.git
+   27  git init https://github.com/sunilkps786/
+   28  git init 
+   29  git init https://github.com/sunilkps786/hello.git
+   30  git init https://github.com/sunilkps786/
+   31  git init 
+   32  ls
+   33  root
+   34  cd sunilkp
+   35  git touch anmol.txt
+   36  git touch anmol
+   37  git --help
+   38  touch anmol.txt
+   39  touch anmol1.txt
+   40  touch anmol2.txt
+   41  touch anmol3.txt
+   42  ls
+   43  git status
+   44  git master status
+   45  git status on branch master
+   46  ls
+   47  clear
+   48  ls
+   49  git status
+   50  git commit
+   51  git clone
+   52  clear
+   53  ls
+   54  git status
+   55  git clone 
+   56  clear
+   57  ls
+   58  git status
+   59  git push
+   60  add anmol.txt
+   61  git add anmol.txt
+   62  git add anmol1.txt
+   63  git add anmol2.txt
+   64  git add anmol3.txt
+   65  git commit
+   66  cd Users\EI06345~
+   67  cd users
+   68  cd Users
+   69  cd c
+   70  cd C
+   71  C:\Users\EI06345\OneDrive - Tietoevry\Desktop\Tools\akshaya
+   72  clear
+   73  git status
+   74  ls
+   75  cd c
+   76  cd \c
+   77  cd cdd
+   78  cd ..
+   79  cd EI06345
+   80  ls
+   81  clear
+   82  cd c
+   83  cd users
+   84  git init
+   85  cd c
+   86  dir
+   87  cd desktop
+   88  cd c/
+   89  cd /c
+   90  cd /Users/
+   91  cd users
+   92  cd EI06345
+   93  CD OneDrive - Tietoevry
+   94  cd  /OneDrive - Tietoevry
+   95  cd  'OneDrive - Tietoevry'
+   96  cd '
+   97  git commit -m "testing git"
+   98  git push
+   99  git inti https://github.com/sunilkps786/newproject.git
+  100  git init https://github.com/sunilkps786/newproject.git
+  101  cd..
+  102  cd dd
+  103  cd.
+  104  cd /
+  105  cd C:\Users\EI06345\OneDrive - Tietoevry\Desktop\Tools\Gittoolfolder
+  106  cd OneDrive - Tietoevry\Desktop\Tools\Gittoolfolder
+  107  clear
+  108  ls
+  109  git ls
+  110  git -ls
+  111  clear
+  112  ls
+  113  git show
+  114  clear
+  115  ls
+  116  git status
+  117  cd c
+  118  cd desktop
+  119  cd desktop
+  120  cd \Users\EI06345\OneDrive - Tietoevry\Desktop\Tools\Gittoolfolder~
+  121  cd users
+  122  cd EI06345
+  123  CD oneDrive - Tietoevry
+  124  ls
+  125  cd OneDrive - Tietoevry
+  126  cd Desktop
+  127  dir
+  128  clear
+  129  ls
+  130  cd 'oneDrive - Tietoevry'
+  131  cd desktop
+  132  cd tools
+  133  cd Gittoolfolder
+  134  clear
+  135  ls
+  136  git touch one.txt
+  137  touch one.txt
+  138  touch two.txt
+  139  touch three.txt
+  140  touch four.txt
+  141  git init https://github.com/sunilkps786/newproject.git
+  142  clear
+  143  ls
+  144  add four.txt
+  145  git add one.txt
+  146  git add two.txt
+  147  git add three.txt
+  148  git add four.txt
+  149  git commit -m "myfirstgit"
+  150  git push
+  151  git remote add https://github.com/sunilkps786/newproject.git
+  152  git init https://github.com/sunilkps786/newproject.git
+  153  git add.
+  154  git commit -m "myfirstgit1"
+  155  git push 
+  156  git remote add origin https://github.com/sunilkps786/newproject.git
+  157  git push 
+  158  git push -u origin main
+  159  git push -u origin master
+  160  cd '
+  161  cd..
+  162  d
+  163  cd 'C:\Users\EI06345\OneDrive - Tietoevry\Desktop\Tools\akshaya'
+  164  git https://github.com/sunilkps786/Anmolroy.git
+  165  git init https://github.com/sunilkps786/Anmolroy.git
+  166  git init
+  167  touch one.txt
+  168  touch two.tzt
+  169  add one.txt
+  170  git add one.txt
+  171  git add two.tzt
+  172  git commit -m "testone"
+  173  git remote add origin https://github.com/sunilkps786/Anmolroy.git
+  174  git push
+  175  git push -u origin main
+  176  git init https://github.com/sunilkps786/Anmolroy.git
+  177  git remote add origin https://github.com/sunilkps786/Anmolroy.git
+  178  git commit -m "first commit"
+  179  git branch -M master
+  180  git remote add origin https://github.com/sunilkps786/Anmolroy.git
+  181  git push -u origin main
+  182  git push -u origin main
+  183  clear
+  184  init 'https://github.com/sunilkps786/Anmolroy.git'
+  185  git init 'https://github.com/sunilkps786/Anmolroy.git'
+  186  add one.txt
+  187  ls
+  188  git status
+  189  cd master
+  190  cd ..
+  191  ls
+  192  cd akshaya
+  193  ls
+  194  git remote add origin https://github.com/sunilkps786/Anmolroy.git
+  195  git push.
+  196  git push -u origin master
+  197  logout
+  198  git pull
+  199  exit
+  200  clea
+  201  clear
+  202  ls
+  203  cd c
+  204  cd c/
+  205  cd c
+  206  clear
+  207  cd C:\Users\EI06345
+  208  cd C:cd C:\
+  209  cd C:cd
+  210  cd C\
+  211  cd ..
+  212  clear
+  213  ls
+  214  git history
+  215  history
+  216  cat history.txt
+  217  cat > histroy .txt
+  218  cat history > history.txt
+  219  cat history >> history.txt
+  220  sudo history > history.txt
+  221  cd EI06345\OneDrive - Tietoevry\Desktop\Gitfolder
+  222  cd EI06345
+  223  cd oneDrive-Tietoevry
+  224  clear
+  225  ls
+  226  cd C:\Users\EI06345\OneDrive - Tietoevry\Desktop\Gitfolder
+  227  cd 'C:\Users\EI06345\OneDrive - Tietoevry\Desktop\Gitfolder'
+  228  ls
+  229  cat > file.txt
+  230  cat > file1.txt
+  231  clear
+  232  git init
+  233  git status
+  234  git commit -m "test file"
+  235  add file.txt 
+  236  git add file.txt
+  237  git add file1.txt
+  238  git touches 
+  239  git status
+  240  git commit -m "test files"
+  241  git checkout main
+  242  git checkout -b main
+  243  git push
+  244  git switch -b master
+  245  git checkout -b master
+  246  git switched -b master
+  247  git branch
+  248  git clone 'https://github.com/sunilkps786/Gitfiles.git'
+  249  git push
+  250  git push 
+  251  git init https://github.com/sunilkps786/Gitfiles.git
+  252  git init
+  253  git add file.txt
+  254  fit add file1.txt
+  255  git add file1.txt
+  256  git commit -m "first commit"
+  257  git branch -m main
+  258  git remote add origin https://github.com/sunilkps786/Gitfiles.git
+  259  git push -u origin main 
+  260  git pull
+  261  cat > file.txt
+  262  cat >> file.txt
+  263  echo file.txt
+  264  touch file.txt
+  265  touch file.txt
+  266  ls
+  267  git status
+  268  git add file.txt
+  269  git add file2.txt
+  270  git commit -m "second commit"
+  271  git push
+  272  history commands.txt
+  273  history > commands.txt
